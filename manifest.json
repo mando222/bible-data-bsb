@@ -210,8 +210,8 @@
     "alignments/Titus.jsonl": "6c51fe4f6714fe74e0ef3a40d1faa1296283746d544fa85ddca9580c7e22fa99",
     "alignments/Zech.jsonl": "32539236a28d831a0f102ea5c9cab6c722a8ea8c8ea97b66317becfd2700ea82",
     "alignments/Zeph.jsonl": "68dc619dd3474b0292fcdb282598a344a85b8814d1eb13e052c2afe6d39b8616",
-    "coverage.json": "a8f5e1921e1b492e803b937e2dbd345f386943328362fa965702a3250685f17a",
-    "inventory.json": "9a37272d4a702eb4c35241b80c17dbdcafc4ae6c2cea8610bed7fa825427c296",
+    "coverage.json": "0b36ec03340dcc0b897a3fdf73fd397e43ad6728914fd30410018e99f424618f",
+    "inventory.json": "7b42b3de17d822ee4ee2a2129521c4cb6913578a8996a56aca77924d9eeeca90",
     "layout/1Chr.jsonl": "b737bc76d0b86d6c34f8171ac3a06cec4cdb6c03286e8151cb453a9748ecc536",
     "layout/1Cor.jsonl": "ec450388159a0ea2a115458b92fd4786182f958e5b75b3eeca01c9dff12b96f2",
     "layout/1John.jsonl": "296781494a5a69397d12b7ffa321e9498ab1207c4a0a06593d37c4708dd15b69",
@@ -411,6 +411,7 @@
     "tokens/Song.jsonl": "17cbbe4f624fd62890d39da922baaf85d58106b9604e2966f326ddc07cf3afe7",
     "tokens/Titus.jsonl": "b3adfe12e1c1b0c41c0b3b74c6ebb98c0a4336ff33d21f21efb1fbb33a0b4bee",
     "tokens/Zech.jsonl": "917c04c080de449d91b289daa2958298fc092d6a64c413be667e6976a64a121e",
-    "tokens/Zeph.jsonl": "e2e39e32c48c35d597cb3d1bb3cccda5ec32dc17836189479a44268e60621f53"
+    "tokens/Zeph.jsonl": "e2e39e32c48c35d597cb3d1bb3cccda5ec32dc17836189479a44268e60621f53",
+    "upstream/engbsb_usfm.zip": "75ca91d5a5c69ca4cbdeabdb03ea1a458db20cf3966abe15d86df086acf7fbc4"
   }
 }
