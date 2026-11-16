@@ -1,0 +1,20 @@
+{
+  "edition": "BSB",
+  "migration": "302bb5f92f1e05bf4b96c894f96da77a4cf10845",
+  "sources": [
+    {
+      "asset": "helloao_BSB.json",
+      "sha256": "68a77358f772344960b582b2204b4592d9bd960a87e5502013bdac8da3bd7bfc",
+      "url": "https://bible.helloao.org/api/BSB/complete.json",
+      "license": "Public Domain",
+      "credit": "Berean Standard Bible. Public Domain (berean.bible)."
+    },
+    {
+      "asset": "bsb_tables.tsv",
+      "url": "https://bereanbible.com/bsb_tables.tsv",
+      "sha256": "aa2a9a0f004d015738cd1839c7c56c3be2549e0d4f4537090c2017268c223c60",
+      "license": "Public domain",
+      "credit": "Berean Bible, Berean Translation Table"
+    }
+  ]
+}
